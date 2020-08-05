@@ -4,7 +4,7 @@
 
 **A software engineering undergrad student from India 🇮🇳.**
 
-I want to be an **InfoSec Professional** post graduation. I design, develop and sometimes rescue applications, do Web and API development, Network Penetration Testing, Malware Analysis and a lot more. I like to keep learning the things that intrigue and fascinate me. I do Electronic Music composition , Photography, Video Editing, 3D modeling and Graphics Designing too. I have a kneen interest in Astrology and Geology. I also try to contribute to open source to the best of my capacity **(🇮💛🐧)**. I use *Arch* btw.
+I want to be an **InfoSec Professional** post graduation. I design, develop and sometimes rescue applications, do Web and API development, Network Penetration Testing, Malware Analysis and a lot more. I like to keep learning the things that intrigue and fascinate me. I do Electronic Music composition , Photography, Video Editing, 3D modeling and Graphics Designing too. I have a kneen interest in Astrology and Geology. I also try to contribute to open source to the best of my capacity **( I 💛 🐧 )**. I use *Arch* btw.
 
 - ### 🔭 I’m currently working on
   
@@ -14,7 +14,7 @@ I want to be an **InfoSec Professional** post graduation. I design, develop and 
   
   - Developing projects to improve my skills as a Developer.
   
-  - Contributing to Open Source as a way of giving it back to the community. Thank you evey open source devs out there.
+  - Contributing to Open Source as a way of giving it back to the community. Thank you all the open source devs out there.
   
   - Improving myself day by day, minute by minute.
 
@@ -24,11 +24,11 @@ I want to be an **InfoSec Professional** post graduation. I design, develop and 
   - Linux 🐧 and Networking 🕸
   - 🇨 & 🇨++
   - Golang 🇬
-  - Cloud Ops
-  - Network Penetration Testing
-  - Malware Analysis
+  - Cloud Ops ☁
+  - Network Penetration Testing 🔓
+  - Malware Analysis 🐛
   - HTML, CSS, JS, jQuery
-  - UI/UX design (Figma & Adobe XD)
+  - UI/UX design (Figma & Adobe XD) 💻📱
   - & Always learning new things
 
 - ### 🌱 I’m currently learning
