@@ -4,7 +4,7 @@
 
 **A software engineering undergrad student from India 🇮🇳.**
 
-I want to be an **InfoSec Professional** post graduation. I design, develop and sometimes rescue applications, do Web and API development, Network Penetration Testing, Malware Analysis and a lot more. I like to keep learning the things that intrigue and fascinate me. I do Electronic Music composition , Photography, Video Editing, 3D modeling and Graphics Designing too. I have a kneen interest in Astrology and Geology. I also try to contribute to open source to the best of my capacity **( I 💛 🐧 )**. I use *Arch* btw.
+I want to be an **InfoSec Professional** post graduation. I design, develop and sometimes rescue applications, do Web and API development, Network Penetration Testing, Malware Analysis and a lot more. I like to keep learning the things that intrigue and fascinate me. I do Electronic Music composition , Photography, Video Editing, 3D modeling and Graphics Designing too. I have a kneen interest in Astronomy and Geology. I also try to contribute to open source to the best of my capacity **( I 💛 🐧 )**. I use *Arch* btw.
 
 - ### 🔭 I’m currently working on
   
